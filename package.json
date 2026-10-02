@@ -1,0 +1,12 @@
+{
+  "name": "bravo-barbearia",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "build": "tailwindcss -i tailwind-input.css -o assets/tailwind.min.css --minify && node build.mjs"
+  },
+  "devDependencies": {
+    "tailwindcss": "4.1.13",
+    "@tailwindcss/cli": "4.1.13"
+  }
+}

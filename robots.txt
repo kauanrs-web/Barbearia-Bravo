@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bravo-barbearia-estilo.kauan-rs080310.chatgpt.site/sitemap.xml

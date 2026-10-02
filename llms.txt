@@ -1,0 +1,13 @@
+# Bravo Barbearia
+
+> Landing page demonstrativa de uma barbearia fictícia.
+
+## Conteúdo
+- [Site](https://bravo-barbearia-estilo.kauan-rs080310.chatgpt.site/): serviços, experiência, FAQ e contato.
+- [Serviços](https://bravo-barbearia-estilo.kauan-rs080310.chatgpt.site/#servicos): corte R$ 45; barba R$ 35; combo R$ 75; infantil R$ 40.
+- [FAQ](https://bravo-barbearia-estilo.kauan-rs080310.chatgpt.site/#duvidas): agendamento, pagamento e remarcação.
+
+## Contexto
+Marca, profissionais, preços, endereço e depoimentos são fictícios.
+O agendamento é demonstrativo e não confirma reservas nem disponibilidade.
+llms.txt é informativo: não concede licença de conteúdo e não garante indexação ou treinamento por IAs.
